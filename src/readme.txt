@@ -1,0 +1,1 @@
+https://ru.legacy.reactjs.org/tutorial/tutorial.html
